@@ -2,7 +2,7 @@
 
 ## I’m interested in 
 
-### Molecular biology biochemistry bioinformatics
+### Molecular biology Biochemistry Bioinformatics
 
 ## I’m currently working in
 
