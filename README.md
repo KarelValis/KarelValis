@@ -6,7 +6,7 @@
 
 ## I’m currently working in :mechanic:
 
-### Techniques such as PCR Next Generation Sequencing(NGS), Mass Spectrometry(MS) and several other molecular biology methods
+### Techniques such as PCR, Next Generation Sequencing(NGS), Mass Spectrometry(MS) and several other molecular biology methods
 
 ## I’m looking to collaborate on livestock animals welfare :sheep:
 
